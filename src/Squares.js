@@ -6,32 +6,34 @@ class Squares extends React.Component {
   constructor() {
     super();
     this.state = {
-      checkBoxDefaultStatus: false,
+      squareDefaultStatus: false,
     };
 
+    // Prop for the multi select
     this.handleMultiSelect = this.handleMultiSelect.bind(this);
   }
 
   handleMultiSelect() {
-    //console.log('aaaa')
+    // State setter to the prop
     this.setState({
-      checkBoxDefaultStatus: !this.state.checkBoxDefaultStatus,
+      squareDefaultStatus: !this.state.squareDefaultStatus,
     });
   }
 
   render() {
-    //console.log('checkBoxDefaultStatus :', this.state.checkBoxDefaultStatus);
+    // State destructuring
+    const { squareDefaultStatus } = this.state;
 
     return (
       <div className="container">
         <ChildSquare
-          checkBoxDefaultStatus={this.state.checkBoxDefaultStatus}
+          squareDefaultStatus={squareDefaultStatus}
           handleMultiSelect={() => {
             this.handleMultiSelect();
           }}
         />
         <div className="text_container">
-          <h4>{this.state.checkBoxDefaultStatus ? 'Done!!!' : ''}</h4>
+          <h4>{squareDefaultStatus ? 'Done!!!' : ''}</h4>
         </div>
       </div>
     );
