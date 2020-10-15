@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22fcadcfe33813be10a436611e5fc36a",
+    "revision": "71b7e6618abb9bf2b085bf0f1dc5ce88",
     "url": "/react-clicked-squares/index.html"
   },
   {
-    "revision": "1fd92304828af7312e0e",
+    "revision": "6688032ed6631a91b7ad",
     "url": "/react-clicked-squares/static/css/main.b23ecb71.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-clicked-squares/static/js/2.3fd310b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fd92304828af7312e0e",
-    "url": "/react-clicked-squares/static/js/main.8739aaeb.chunk.js"
+    "revision": "6688032ed6631a91b7ad",
+    "url": "/react-clicked-squares/static/js/main.a7255df8.chunk.js"
   },
   {
     "revision": "9eb94a76d45585419edc",

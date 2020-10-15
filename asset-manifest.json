@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-clicked-squares/static/css/main.b23ecb71.chunk.css",
-    "main.js": "/react-clicked-squares/static/js/main.8739aaeb.chunk.js",
-    "main.js.map": "/react-clicked-squares/static/js/main.8739aaeb.chunk.js.map",
+    "main.js": "/react-clicked-squares/static/js/main.a7255df8.chunk.js",
+    "main.js.map": "/react-clicked-squares/static/js/main.a7255df8.chunk.js.map",
     "runtime-main.js": "/react-clicked-squares/static/js/runtime-main.5715f6f6.js",
     "runtime-main.js.map": "/react-clicked-squares/static/js/runtime-main.5715f6f6.js.map",
     "static/js/2.3fd310b8.chunk.js": "/react-clicked-squares/static/js/2.3fd310b8.chunk.js",
     "static/js/2.3fd310b8.chunk.js.map": "/react-clicked-squares/static/js/2.3fd310b8.chunk.js.map",
     "index.html": "/react-clicked-squares/index.html",
-    "precache-manifest.2f88223a48965cc8a2c177712eb1d3ed.js": "/react-clicked-squares/precache-manifest.2f88223a48965cc8a2c177712eb1d3ed.js",
+    "precache-manifest.00710ce3fcc029ff006f07f2484983fa.js": "/react-clicked-squares/precache-manifest.00710ce3fcc029ff006f07f2484983fa.js",
     "service-worker.js": "/react-clicked-squares/service-worker.js",
     "static/css/main.b23ecb71.chunk.css.map": "/react-clicked-squares/static/css/main.b23ecb71.chunk.css.map",
     "static/js/2.3fd310b8.chunk.js.LICENSE.txt": "/react-clicked-squares/static/js/2.3fd310b8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5715f6f6.js",
     "static/js/2.3fd310b8.chunk.js",
     "static/css/main.b23ecb71.chunk.css",
-    "static/js/main.8739aaeb.chunk.js"
+    "static/js/main.a7255df8.chunk.js"
   ]
 }
